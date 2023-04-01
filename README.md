@@ -1,16 +1,13 @@
 <h1 align="center">1CH0</h1>
 <h3 align="center">B.A. Sociocultural Anthropology</h3> 
 <h3 align="center">Minors in Archaeology & Geography</h3>
-<h3 align="center">University of Puerto Rico, Rio Piedras</h3>
+<h3 align="center">University of Puerto Rico, Rio Piedras Campus</h3>
 <h3 align="center">Interests include:</h3>
 
 - Python
- 
 - Algorithmnic Trading
-
-- Digital Archaeology 
-
 - Data Science
+- Digital Archaeology
 
 <h3 align="left">Connect with me:</h3>
 - under construction
